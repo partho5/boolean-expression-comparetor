@@ -7,5 +7,5 @@ For example <b>A+A!B+B!C+!AB!C</b> is reduced to <b>A+B!C</b> . Then to verify <
 If someone ends with a wrong solution like <b>A+B!CA</b> , this is the output: <br> <br>
 <img src='https://raw.githubusercontent.com/partho5/boolean-expression-comparetor/master/screenshots/invalid.png'>
 <br> <br> 
-Also generates truth table of any number of variables. Example : <br><br> 
+Also generates <b>truth table</b> of any number of variables. Example : <br><br> 
 <img src='https://raw.githubusercontent.com/partho5/boolean-expression-comparetor/master/screenshots/truth%20table.png'>
